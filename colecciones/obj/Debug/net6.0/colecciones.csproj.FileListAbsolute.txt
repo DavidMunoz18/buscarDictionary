@@ -1,0 +1,14 @@
+C:\Users\csi23-dmunnco\source\repos\colecciones\obj\Debug\net6.0\colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\colecciones\obj\Debug\net6.0\colecciones.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\colecciones\obj\Debug\net6.0\colecciones.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\colecciones\obj\Debug\net6.0\colecciones.csproj.CoreCompileInputs.cache
+C:\Users\csi23-dmunnco\source\repos\colecciones\bin\Debug\net6.0\colecciones.exe
+C:\Users\csi23-dmunnco\source\repos\colecciones\bin\Debug\net6.0\colecciones.deps.json
+C:\Users\csi23-dmunnco\source\repos\colecciones\bin\Debug\net6.0\colecciones.runtimeconfig.json
+C:\Users\csi23-dmunnco\source\repos\colecciones\bin\Debug\net6.0\colecciones.dll
+C:\Users\csi23-dmunnco\source\repos\colecciones\bin\Debug\net6.0\colecciones.pdb
+C:\Users\csi23-dmunnco\source\repos\colecciones\obj\Debug\net6.0\colecciones.dll
+C:\Users\csi23-dmunnco\source\repos\colecciones\obj\Debug\net6.0\refint\colecciones.dll
+C:\Users\csi23-dmunnco\source\repos\colecciones\obj\Debug\net6.0\colecciones.pdb
+C:\Users\csi23-dmunnco\source\repos\colecciones\obj\Debug\net6.0\colecciones.genruntimeconfig.cache
+C:\Users\csi23-dmunnco\source\repos\colecciones\obj\Debug\net6.0\ref\colecciones.dll
