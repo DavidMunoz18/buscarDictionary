@@ -8,6 +8,7 @@ namespace colecciones
     {
         public static void Main(String[] args)
         {
+            //hola
             Dictionary<string, ClienteDto> diccionario = new Dictionary<string, ClienteDto>();
             MenuInterfaz mi = new MenuImplementacion();
             OperativaInterfaz oi = new OperativaImplementacion();

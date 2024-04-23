@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\csi23-dmunnco\\source\\repos\\colecciones\\colecciones.csproj",
+      "projectUniqueName": "C:\\Users\\csi23-dmunnco\\Documents\\buscarDictionary\\colecciones\\colecciones.csproj",
       "projectName": "colecciones",
-      "projectPath": "C:\\Users\\csi23-dmunnco\\source\\repos\\colecciones\\colecciones.csproj",
+      "projectPath": "C:\\Users\\csi23-dmunnco\\Documents\\buscarDictionary\\colecciones\\colecciones.csproj",
       "packagesPath": "C:\\Users\\csi23-dmunnco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\csi23-dmunnco\\source\\repos\\colecciones\\obj\\",
+      "outputPath": "C:\\Users\\csi23-dmunnco\\Documents\\buscarDictionary\\colecciones\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\csi23-dmunnco\\AppData\\Roaming\\NuGet\\NuGet.Config",
